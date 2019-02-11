@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geigiogh.miquelcabot.com/sitemap.xml
